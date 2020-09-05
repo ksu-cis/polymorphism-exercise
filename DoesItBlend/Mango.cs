@@ -7,7 +7,7 @@ namespace DoesItBlend
     /// <summary>
     /// A class representing a mango
     /// </summary>
-    public class Mango : Fruit
+    public class Mango 
     {
         /// <summary>
         /// Blends the mango
